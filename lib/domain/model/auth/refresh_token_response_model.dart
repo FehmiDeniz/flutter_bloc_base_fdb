@@ -1,4 +1,4 @@
-import 'package:try_again_app/domain/model/base_model.dart';
+import 'package:flutter_bloc_base_template/domain/model/base_model.dart';
 
 class RefreshTokenResponseModel extends BaseModel<RefreshTokenResponseModel> {
   Value? value;

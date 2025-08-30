@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:flutter/material.dart';
-import 'package:try_again_app/common/enums/service_path_enums.dart';
+import 'package:flutter_bloc_base_template/common/enums/service_path_enums.dart';
 import '../../common/enums/local_storage_enum.dart';
 import '../../core/services/network_error.dart';
 import '../../core/services/network_manager.dart';
