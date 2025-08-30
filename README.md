@@ -745,7 +745,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Proje Linki**: [https://github.com/username/flutter_bloc_template](https://github.com/username/flutter_bloc_template)
+- **Proje Linki**: [https://github.com/FehmiDeniz/flutter_bloc_base_fdb](https://github.com/FehmiDeniz/flutter_bloc_base_fdb)
 - **Issues**: [https://github.com/username/flutter_bloc_template/issues](https://github.com/username/flutter_bloc_template/issues)
 
 ---
