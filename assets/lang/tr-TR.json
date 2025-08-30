@@ -1,0 +1,14 @@
+{
+    "login": {
+        "login": "Giriş yap",
+        "email": "Email",
+        "emailPlaceholder": "Email adresinizi giriniz",
+        "password": "Şifre",
+        "passwordPlaceholder": "Şifrenizi giriniz",
+        "rememberMe": "Beni Hatırla",
+        "forgotPassword": "Şifreni mi unuttun?",
+        "invalidEmail": "❗️Geçersiz Email Formatı!",
+        "invalidPassword": "❗️Şifre boş olamaz!",
+        "loginButton": "Giriş yap"
+    }
+}

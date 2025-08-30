@@ -1,0 +1,14 @@
+{
+    "login": {
+        "login": "Log in",
+        "email": "Email",
+        "emailPlaceholder": "Enter your email address",
+        "password": "Password",
+        "passwordPlaceholder": "Enter your password",
+        "rememberMe": "Remember Me",
+        "forgotPassword": "Did you forget your password?",
+        "invalidEmail": "❗️Invalid Email Format!",
+        "invalidPassword": "❗️Password cannot be empty!",
+        "loginButton": "Log in"
+    }
+}
